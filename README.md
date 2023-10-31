@@ -27,8 +27,8 @@
 
  <table>
   <tr>
-    <td>Welcome page</td>
-     <td>Sign up page</td>
+    <td>Home</td>
+     <td>SignUp</td>
   </tr>
   <tr>
     <td><img src="ss/pre.png" width=auto height=auto></td>
