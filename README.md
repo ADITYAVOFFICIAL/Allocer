@@ -117,9 +117,9 @@ flowchart LR
 A(Round)
 A[Clone Repo] --> B(Round)
 C(Round)
-B[Open Folder] --> C[Install requirements.txt]
+B[Install requirements.txt] --> C[Install requirements.txt]
 D(Round)
-C[Open Folder] --> D[Open index.html]
+C[Open Folder] --> D[Run app.py]
 ```
 
 
