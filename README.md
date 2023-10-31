@@ -23,11 +23,25 @@
 
  ## Preview
 
-![Web_app](ss/pre.png)<br/>
-![Web_app](ss/admin.png)<br/>
-![Web_app](ss/signup.png)<br/>
-![Web_app](ss/student.png)<br/>
-![Web_app](ss/end.png)<br/>
+ <table>
+  <tr>
+    <td>Welcome page</td>
+     <td>Sign up page</td>
+  </tr>
+  <tr>
+    <td><img src="ss/pre.png" width=auto height=auto></td>
+    <td><img src="ss/signup.png" width=auto height=auto></td>
+  </tr>
+  <tr>
+     <td>Student Menu</td>
+     <td>Admin Menu</td>
+  </tr>
+  <tr>
+    <td><img src="ss/student.png" width=auto height=auto></td>
+    <td><img src="ss/admin.png" width=auto height=auto></td>
+  </tr>
+ </table>
+
 
  ## Current Tech Stack 🔻
 <div style="display: inline_block"><br>
