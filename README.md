@@ -23,14 +23,11 @@
 
  ## Preview
 
-![Web_app](images/pre.png)<br/>
-![Web_app](images/pre2.png)<br/>
-
-<p align="center">
-  <img src="images/pre3.png" width="200" alt="Web_app">
-</p>
-
-![Web_app](images/pre4.png)<br/>
+![Web_app](ss/pre.png)<br/>
+![Web_app](ss/admin.png)<br/>
+![Web_app](ss/signup.png)<br/>
+![Web_app](ss/student.png)<br/>
+![Web_app](ss/end.png)<br/>
 
  ## Current Tech Stack 🔻
 <div style="display: inline_block"><br>
