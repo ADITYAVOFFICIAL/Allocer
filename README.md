@@ -1,11 +1,11 @@
 ## DermaScan: Advanced Skin Lesion Classifier with Dermatology Chatbot
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
 ![Status](https://img.shields.io/website-up-down-green-red/https/derma-scan.netlify.app.svg)
-![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Skin-Disease-Classifierp.svg)
-![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Skin-Disease-Classifier.svg)
-![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Skin-Disease-Classifier.svg)
+![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Allocerp.svg)
+![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Allocer.svg)
+![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Allocer.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Skin-Disease-Classifier.svg)
+![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Allocer.svg)
   <p>
     <ul>
             <li>The code is divided into different classes: menu, database, allotment_mechanism. Each file contains a class with related data members and functions defined in it.</li>
@@ -13,10 +13,6 @@
             <li>The system efficiently carries out seat allocation for 500+ student records currently present in the database.</li>
             <li>Passwords are encrypted with a simple Caesar-cipher algorithm before saving in the datasheet.</li>
         </ul>
-
-
-> [!IMPORTANT]
-> These results are for informational purposes only; consult a healthcare professional for accurate medical advice.
 
  ## Build Status
  [![Netlify Status](https://api.netlify.com/api/v1/badges/a1f776b3-3424-4a08-9f85-b212b66cfbe8/deploy-status)](https://app.netlify.com/sites/derma-scan/deploys)
@@ -125,7 +121,7 @@ C[Open Folder] --> D[Open index.html]
 
  ## Current Contributors 🔻
 <div align="center">
-  <a href="https://github.com/ADITYAVOFFICIAL/Skin-Disease-Classifier/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/Skin-Disease-Classifier" />
+  <a href="https://github.com/ADITYAVOFFICIAL/Allocer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/Allocer" />
 </a>
 </div>
