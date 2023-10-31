@@ -7,12 +7,21 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Allocer.svg)
   <p>
-    <ul>
-            <li>The code is divided into different classes: menu, database, allotment_mechanism. Each file contains a class with related data members and functions defined in it.</li>
-            <li>The functionality is divided into two main parts: for Admin and Student. Validations are added for all inputs to ensure an error-free experience.</li>
-            <li>The system efficiently carries out seat allocation for 500+ student records currently present in the database.</li>
-            <li>Passwords are encrypted with a simple Caesar-cipher algorithm before saving in the datasheet.</li>
-        </ul>
+
+## Project Overview
+
+- This is an *application-based* group project, a part of the DSA (Data Structure and Algorithms) application.
+- The project aims to **simulate the admission process** for colleges. Students can apply for a degree program at a college using this system. Allocer is a completely merit-based allotment system. Students are admitted taking into consideration their Common Entrance Test (SRMJEE) marks and course preferences.
+- The code is divided into different classes: menu, database, allotment_mechanism. Each file contains a class which has the related data members and functions defined in it. The functionality is divided mainly into 2 parts: For **Admin** and **Student**. Validations are added for all inputs to ensure an error-free experience.
+
+### Features
+- Forgot Password: A new temporary password will be emailed to the user.
+- Password encryption by using a stronger algorithm.
+- Validation of scores entered by the applicant by extracting the score from the uploaded scorecard in PDF form.
+- Feature for students that allow them to download their allotment result as a PDF file and Admin feature to download the full allotment result list in the form of PDF.
+- Course seat prediction, based on the score by using ML algorithms.
+- Show statistics such as acceptance rate per course, gender-wise allocation chart, etc.
+- Executing multiple allotment rounds - students will have the option to accept and freeze the allotted seat or try again for improvement in the next round.
 
  ## Build Status
  [![Netlify Status](https://api.netlify.com/api/v1/badges/a1f776b3-3424-4a08-9f85-b212b66cfbe8/deploy-status)](https://app.netlify.com/sites/derma-scan/deploys)
