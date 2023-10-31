@@ -26,16 +26,16 @@
 
  <table>
   <tr>
-    <td> **Home** </td>
-     <td **Sign Up** </td>
+    <td>Home</td>
+     <td>Sign Up</td>
   </tr>
   <tr>
     <td><img src="ss/pre.png" width=auto height=auto></td>
     <td><img src="ss/signup.png" width=auto height=auto></td>
   </tr>
   <tr>
-     <td> **Student Menu** </td>
-     <td> **Admin Menu** </td>
+     <td>Student Menu</td>
+     <td>Admin Menu</td>
   </tr>
   <tr>
     <td><img src="ss/student.png" width=auto height=auto></td>
