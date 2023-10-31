@@ -8,11 +8,11 @@
 ![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Skin-Disease-Classifier.svg)
   <p>
     <ul>
-      <li>Welcome to the DermaScan web app GitHub repository, your gateway to a cutting-edge skin lesion and disease classifier.</li>
-      <li>Leveraging Harvard's Ham10000 dataset and the robust MobileNet V2 model, this system boasts an impressive accuracy rate of 89%.</li>
-      <li>But that's not all – we've integrated "Derma" a dermatology chatbot powered by GPT-3.5 Turbo with internet access, to provide insightful information and guidance.</li>
-      <li>Moreover, our app also connects you with the nearest doctors through an intuitive API, and offers suggestions for relevant medical articles. Explore the future of dermatological diagnostics and treatment right here!</li>
-    </ul>
+            <li>The code is divided into different classes: menu, database, allotment_mechanism. Each file contains a class with related data members and functions defined in it.</li>
+            <li>The functionality is divided into two main parts: for Admin and Student. Validations are added for all inputs to ensure an error-free experience.</li>
+            <li>The system efficiently carries out seat allocation for 500+ student records currently present in the database.</li>
+            <li>Passwords are encrypted with a simple Caesar-cipher algorithm before saving in the datasheet.</li>
+        </ul>
 
 
 > [!IMPORTANT]
