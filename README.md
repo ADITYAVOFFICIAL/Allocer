@@ -1,7 +1,7 @@
 ## DermaScan: Advanced Skin Lesion Classifier with Dermatology Chatbot
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
 ![Status](https://img.shields.io/website-up-down-green-red/https/derma-scan.netlify.app.svg)
-![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Allocerp.svg)
+![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Allocer.svg)
 ![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Allocer.svg)
 ![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Allocer.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
