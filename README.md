@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-- This is an *application-based* group project, a part of the DSA (Data Structure and Algorithms) application.
+- This is an *application-based* project, a part of the DSA (Data Structure and Algorithms) application.
 - The project aims to **simulate the admission process** for colleges. Students can apply for a degree program at a college using this system. Allocer is a completely merit-based allotment system. Students are admitted taking into consideration their Common Entrance Test (SRMJEE) marks and course preferences.
 - The code is divided into different classes: menu, database, allotment_mechanism. Each file contains a class which has the related data members and functions defined in it. The functionality is divided mainly into 2 parts: For **Admin** and **Student**. Validations are added for all inputs to ensure an error-free experience.
 
